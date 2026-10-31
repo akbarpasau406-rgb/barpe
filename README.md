@@ -1,61 +1,120 @@
-
 <div align="center">
 
-# Halo Nama saya Akbar 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18" width="100%"/>
 
-### 💻 Saya adalah Seorang Web Developer
+# Halo saya Akbar p! 👋
 
-I am passionate about technology, programming,
-and building useful digital solutions.
+### `Building ideas into reality through code.`
 
-🌱 Currently learning new technologies  
-🚀 Building projects and improving my skills  
-🎯 Aspiring Software Engineer
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01. ABOUT ME`
 
-- 💡 Interested in Software Development
-- 🌱 Always learning and exploring technology
-- 🔭 Working on personal projects
-- 🎯 Looking for opportunities to grow as a developer
+```javascript
+const developer = {
+    name: "Your Name",
+    role: "Junior Software Developer",
+    location: "Indonesia",
+    interests: [
+        "Software Development",
+        "Web Development",
+        "Problem Solving"
+    ],
+    currentlyLearning: "New Technologies",
+    goal: "Building impactful digital products"
+};
+```
 
-## 🛠️ Technical Skills
+I am a passionate developer who enjoys exploring
+technology, developing applications, and solving
+problems through programming.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I believe in continuous learning, clean code,
+and building solutions that make a difference.
 
-## 🚀 My Projects
+---
 
-| Project | Description |
-|---|---|
-| Project 1 | Your project description |
-| Project 2 | Your project description |
-| Project 3 | Your project description |
+## `02. TECH STACK`
 
-## 📊 GitHub Statistics
+### Languages & Development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### Tools & Platforms
 
-## 📫 Connect With Me
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Your LinkedIn URL
-- Email: your.email@example.com
+---
+
+## `03. FEATURED PROJECTS`
+
+| Project | Description | Technology |
+|:--|:--|:--|
+| Portfolio Website | Personal developer portfolio | HTML, CSS |
+| Web Application | Interactive web application | JavaScript |
+| Python Project | Programming and automation | Python |
+
+> Replace these examples with your real GitHub repositories.
+
+---
+
+## `04. GITHUB ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8"/>
+
+</div>
+
+---
+
+## `05. CURRENT FOCUS`
+
+- Building real-world projects.
+- Improving programming skills.
+- Learning modern development tools.
+- Collaborating with other developers.
+- Preparing for professional opportunities.
+
+---
+
+## `06. LET'S CONNECT`
+
+<div align="center">
+
+**Have an interesting project or opportunity?**
+
+I'm always open to learning, collaboration,
+and professional opportunities.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Keep Learning, Keep Building, Keep Growing."
+### `Code. Create. Innovate. Repeat.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
