@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 👋 Hi, I'm YOUR NAME
+# Halo Nama saya Akbar 
 
-### 💻 Junior Software Developer
+### 💻 Saya adalah Seorang Web Developer
 
 I am passionate about technology, programming,
 and building useful digital solutions.
