@@ -1,48 +1,61 @@
 
 <div align="center">
 
-# 👋 Hello, Saya Akbar Pasau
+# 👋 Hi, I'm YOUR NAME
 
-### 💻 Beginner Developer | Future Software Engineer
+### 💻 Junior Software Developer
 
-I'm passionate about technology, programming, and building cool projects.
+I am passionate about technology, programming,
+and building useful digital solutions.
 
-🌱 Currently learning Web Development  
-🚀 Exploring new technologies  
-🎯 Working on improving my coding skills  
+🌱 Currently learning new technologies  
+🚀 Building projects and improving my skills  
+🎯 Aspiring Software Engineer
 
----
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+## 👨‍💻 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+- 💡 Interested in Software Development
+- 🌱 Always learning and exploring technology
+- 🔭 Working on personal projects
+- 🎯 Looking for opportunities to grow as a developer
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+## 🛠️ Technical Skills
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 My Projects
+
+| Project | Description |
+|---|---|
+| Project 1 | Your project description |
+| Project 2 | Your project description |
+| Project 3 | Your project description |
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: Your LinkedIn URL
+- Email: your.email@example.com
 
 ---
 
-### 🔥 GitHub Streak
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
----
-
-### 🌐 Connect With Me
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-### ✨ Quote
-
-"Code. Learn. Build. Repeat."
+### "Keep Learning, Keep Building, Keep Growing."
 
 </div>
