@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=58&descSize=18" width="100%"/>
 
-# Halo saya Akbar p! 👋
+# Halo Semuanya! 👋
 
 ### `Building ideas into reality through code.`
 
@@ -18,7 +18,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Akbar Pasau",
     role: "Junior Software Developer",
     location: "Indonesia",
     interests: [
